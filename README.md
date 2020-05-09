@@ -1,6 +1,6 @@
 ## Nightwatch test automation demo
 
-### Prerequizites
+### Prerequisites
 
 [Node.js](https://nodejs.org/en/) installed
 
@@ -8,7 +8,7 @@ Nightwatch.js and geckodriver installed:
 
  ```npm install --save-dev nightwatch geckodriver```
 
-### Running test
+### Running tests
  
 ```node nightwatch -t tests/```
 
