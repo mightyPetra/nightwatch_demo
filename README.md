@@ -2,11 +2,11 @@
 
 ### Prerequisites
 
-[Node.js](https://nodejs.org/en/) installed
+- [Node.js](https://nodejs.org/en/) installed
 
-Nightwatch.js and geckodriver installed:
+ - Nightwatch.js and geckodriver installed:
 
- ```npm install --save-dev nightwatch geckodriver```
+   ```npm install --save-dev nightwatch geckodriver```
 
 ### Running tests
  
