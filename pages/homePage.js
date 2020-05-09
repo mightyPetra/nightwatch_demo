@@ -38,7 +38,7 @@ const bookingActions = {
 };
 
 module.exports = {
-    url: 'https://www.united.com/',
+    url: 'https://www.united.com/en/us',
     elements: {
         loader: "#fl-results-loader-full"
     },
