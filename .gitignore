@@ -1,0 +1,5 @@
+/reports
+/n
+/.idea/
+*.log
+/nightwatch
